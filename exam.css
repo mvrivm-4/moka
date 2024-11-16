@@ -1,0 +1,41 @@
+/* .mass {
+    text-align: center;
+    color: rgb(21, 8, 17);
+    background-image: linear-gradient(rgb(31, 199, 185), rgb(244, 248, 255));
+    padding: 20px;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+button {
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    background-image: linear-gradient(rgb(0, 217, 255), blue);
+}
+
+button:hover {
+    filter: drop-shadow(0 0 20px rgb(192, 173, 173));
+}
+
+ul {
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin: 20px;
+}
+
+li {
+    display: inline;
+}
+
+a {
+    text-decoration: none;
+    background-color: antiquewhite;
+    padding: 4px;
+    border-radius: 4px;
+    color: rgb(21, 8, 17);
+} */
